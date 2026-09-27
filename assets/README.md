@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="./assets/profile-banner.jpg" 
+    src="./assets/banner.png" 
     alt="Jannatul Mauwa Mitu Banner"
     width="100%"
   />
